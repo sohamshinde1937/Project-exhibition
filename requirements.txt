@@ -1,0 +1,8 @@
+# Python agent workers (Receptionist, Sales, Support).
+# Pinned to the exact versions the code was checked against (livekit-agents 0.12.21 tag).
+livekit-agents==0.12.21
+livekit-plugins-openai==0.12.4
+livekit-plugins-cartesia==0.4.12
+livekit-plugins-silero==0.7.6
+aiohttp>=3.9
+python-dotenv>=1.0
